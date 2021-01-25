@@ -16,6 +16,6 @@ for a in range(N):
 print()
 if N >= 3:
     count = float(count) * 0.9
-    print("Общая стоимость билетов: ", count)
+    print("Общая стоимость билетов с учётом скидки 10%: ", count)
 else:
     print("Общая стоимость билетов: ", count)
